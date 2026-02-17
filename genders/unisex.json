@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "name": "Unisex",
+    "slug": "unisex",
+    "url": "https://www.shopkidsbagpack.com/p/unisex.html",
+    "generated_at": "2026-02-17T02:40:22.035Z",
+    "total_products": 5,
+    "site_url": "https://www.shopkidsbagpack.com"
+  },
+  "gender": {
+    "name": "Unisex",
+    "slug": "unisex",
+    "description": "Unisex backpacks collection",
+    "url": "https://www.shopkidsbagpack.com/p/unisex.html"
+  },
+  "products": [
+    {
+      "product_id": "jansports-mlpzwz8i-9eeuz",
+      "name": "JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black",
+      "slug": "jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar",
+      "url": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html",
+      "brand": "JanSport",
+      "price": 34.84,
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+      "overall_score": 4.6,
+      "primary_use": "School, Everyday Use, Travel"
+    },
+    {
+      "product_id": "pumakids-mlpzwz8k-dy2at",
+      "name": "PUMA Kids' Meridian Backpack",
+      "slug": "puma-kids-meridian-backpack",
+      "url": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html",
+      "brand": "PUMA",
+      "price": 9.22,
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+      "overall_score": 4.6,
+      "primary_use": "School, Travel, Everyday Use"
+    },
+    {
+      "product_id": "championm-mlpzwz8k-bxoy8",
+      "name": "Champion Manuscript Backpack, Black, OS",
+      "slug": "champion-manuscript-backpack-black-os",
+      "url": "https://www.shopkidsbagpack.com/2026/02/champion-manuscript-backpack-black-os.html",
+      "brand": "Champion",
+      "price": 17.3,
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+      "overall_score": 4.7,
+      "primary_use": "School, Gym, Travel, Everyday Use"
+    },
+    {
+      "product_id": "cusangelb-mlpzwz8k-0m7lu",
+      "name": "Cusangel Backpack for Girls Boys School Bookbags Kindergarten Elementary Lightweight Waterproof Multifunctional Large Capacity for Backpack (16 inch Fun Prints)",
+      "slug": "cusangel-backpack-for-girls-boys-school-bookbags-kindergarten-elementary-lightwe",
+      "url": "https://www.shopkidsbagpack.com/2026/02/cusangel-backpack-for-girls-boys-school-bookbags-kindergarten-elementary-lightwe.html",
+      "brand": "Cusangel",
+      "price": 20.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+      "overall_score": 4.8,
+      "primary_use": "School, Kindergarten, Elementary"
+    },
+    {
+      "product_id": "simplemod-mlpzwz8k-3uh5a",
+      "name": "Simple Modern Medium Disney Toddler Backpack for School Girls and Boys | Kindergarten Elementary Kids Backpack | Fletcher Collection | Kids - 15\" tall | Princess Rainbows",
+      "slug": "simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar",
+      "url": "https://www.shopkidsbagpack.com/2026/02/simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar.html",
+      "brand": "Simple Modern",
+      "price": 33.99,
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+      "overall_score": 4.8,
+      "primary_use": "School, Kindergarten, Elementary"
+    }
+  ]
+}
