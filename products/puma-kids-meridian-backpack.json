@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "product_id": "pumakids-mlpzwz8k-dy2at",
+    "slug": "puma-kids-meridian-backpack",
+    "generated_at": "2026-02-17T02:40:19.892Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html",
+      "gender": "https://www.shopkidsbagpack.com/p/kids (unisex).html",
+      "brand": "https://www.shopkidsbagpack.com/p/puma.html",
+      "subcategory": "https://www.shopkidsbagpack.com/p/kids-backpacks.html"
+    }
+  },
+  "product": {
+    "product_name": "PUMA Kids' Meridian Backpack",
+    "brand": "PUMA",
+    "price": 9.22,
+    "category": "Luggage & Travel Gear",
+    "subcategory": "Kids' Backpacks",
+    "color_options": "Gray/Yellow Backpack, Black/Red, Black/Silver, Red/Camo Backpack, Heather Multi, Navy/Red",
+    "size": "One Size",
+    "dimensions": "Not specified in listing",
+    "primary_use": "School, Travel, Everyday Use",
+    "gender": "Kids (Unisex)",
+    "strap_type": "Comfortable padded straps",
+    "pockets_compartments": "Multiple pockets, sleeves, and organizers (unspecified)",
+    "design": "Simplistic, Classic Design",
+    "material_quality": "Polyester, Easy to spot clean",
+    "ratings": 4.6,
+    "reviews": 6112,
+    "overall_score": 4.6,
+    "amazon_url": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+    "img_url1": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+    "img_url2": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+    "img_url3": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+    "img_url4": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+    "product_id": "pumakids-mlpzwz8k-dy2at",
+    "slug": "puma-kids-meridian-backpack",
+    "url": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html",
+    "gender_url": "https://www.shopkidsbagpack.com/p/kids (unisex).html",
+    "brand_url": "https://www.shopkidsbagpack.com/p/puma.html",
+    "subcategory_url": "https://www.shopkidsbagpack.com/p/kids-backpacks.html",
+    "image_urls": [
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+    ],
+    "main_image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "pockets": [
+      "Multiple pockets",
+      "sleeves",
+      "and organizers (unspecified)"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shopkidsbagpack.com/#product-pumakids-mlpzwz8k-dy2at",
+      "name": "PUMA Kids' Meridian Backpack",
+      "description": "PUMA PUMA Kids' Meridian Backpack - School, Travel, Everyday Use",
+      "url": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html",
+      "sku": "pumakids-mlpzwz8k-dy2at",
+      "brand": {
+        "@type": "Brand",
+        "name": "PUMA",
+        "url": "https://www.shopkidsbagpack.com/p/puma.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html",
+        "priceCurrency": "USD",
+        "price": 9.22,
+        "priceValidUntil": "2027-02-17",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 6112,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Luggage & Travel Gear"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Kids' Backpacks"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color Options",
+          "value": "Gray/Yellow Backpack, Black/Red, Black/Silver, Red/Camo Backpack, Heather Multi, Navy/Red"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "One Size"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Dimensions",
+          "value": "Not specified in listing"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Primary Use",
+          "value": "School, Travel, Everyday Use"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Kids (Unisex)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Strap Type",
+          "value": "Comfortable padded straps"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pockets/Compartments",
+          "value": "Multiple pockets, sleeves, and organizers (unspecified)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Design",
+          "value": "Simplistic, Classic Design"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material Quality",
+          "value": "Polyester, Easy to spot clean"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "4.6"
+        }
+      ],
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shopkidsbagpack.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Kids (Unisex)",
+            "item": "https://www.shopkidsbagpack.com/p/kids (unisex).html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "PUMA",
+            "item": "https://www.shopkidsbagpack.com/p/puma.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Kids' Backpacks",
+            "item": "https://www.shopkidsbagpack.com/p/kids-backpacks.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "PUMA Kids' Meridian Backpack",
+            "item": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-17T02:40:18.788Z",
+    "last_updated": "2026-02-17T02:40:18.788Z"
+  }
+}
