@@ -1,0 +1,914 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-17T02:40:18.790Z",
+    "total_products": 5,
+    "last_sync": "2026-02-17T02:40:18.790Z",
+    "format_version": "2.0",
+    "site_url": "https://www.shopkidsbagpack.com"
+  },
+  "products": [
+    {
+      "product_name": "JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black",
+      "brand": "JanSport",
+      "price": 34.84,
+      "category": "Luggage & Travel Gear",
+      "subcategory": "Casual Daypacks",
+      "color_options": "70s Space Dye Fresh Mint, Black, Cyberspace Galaxy, Deep Grey, Deep Juniper, Faded Floral Fresh Mint, Faded Sage, Flower Market, Fluttering Fields, Graphite Grey, Navy, Night Sky, Pastel Lilac, Red Tape, Russet Red, Threaded",
+      "size": "One Size",
+      "dimensions": "16.5 x 12.5 x 5.5 inches / 42 x 32 x 14 cm",
+      "primary_use": "School, Everyday Use, Travel",
+      "gender": "Unisex",
+      "strap_type": "Padded shoulder straps (15-inch drop)",
+      "pockets_compartments": "1 main compartment, 1 front utility pocket with built-in organizer",
+      "design": "Classic, Simple Silhouette",
+      "material_quality": "600 Denier Polyester (Recycled), Abrasion-resistant, Water-repellent",
+      "ratings": 4.6,
+      "reviews": 43197,
+      "overall_score": 4.6,
+      "amazon_url": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/138._TTD_.jpg",
+      "img_url1": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+      "img_url2": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+      "img_url3": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+      "img_url4": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+      "img_url5": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+      "product_id": "jansports-mlpzwz8i-9eeuz",
+      "slug": "jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar",
+      "url": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html",
+      "gender_url": "https://www.shopkidsbagpack.com/p/unisex.html",
+      "brand_url": "https://www.shopkidsbagpack.com/p/jansport.html",
+      "subcategory_url": "https://www.shopkidsbagpack.com/p/casual-daypacks.html",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+      ],
+      "main_image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+      "sizes": [
+        "One Size"
+      ],
+      "pockets": [
+        "1 main compartment",
+        "1 front utility pocket with built-in organizer"
+      ],
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "@id": "https://www.shopkidsbagpack.com/#product-jansports-mlpzwz8i-9eeuz",
+        "name": "JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black",
+        "description": "JanSport JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black - School, Everyday Use, Travel",
+        "url": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html",
+        "sku": "jansports-mlpzwz8i-9eeuz",
+        "brand": {
+          "@type": "Brand",
+          "name": "JanSport",
+          "url": "https://www.shopkidsbagpack.com/p/jansport.html"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html",
+          "priceCurrency": "USD",
+          "price": 34.84,
+          "priceValidUntil": "2027-02-17",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "Amazon"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.6,
+          "reviewCount": 43197,
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Category",
+            "value": "Luggage & Travel Gear"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Subcategory",
+            "value": "Casual Daypacks"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Color Options",
+            "value": "70s Space Dye Fresh Mint, Black, Cyberspace Galaxy, Deep Grey, Deep Juniper, Faded Floral Fresh Mint, Faded Sage, Flower Market, Fluttering Fields, Graphite Grey, Navy, Night Sky, Pastel Lilac, Red Tape, Russet Red, Threaded"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Size",
+            "value": "One Size"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Dimensions",
+            "value": "16.5 x 12.5 x 5.5 inches / 42 x 32 x 14 cm"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Primary Use",
+            "value": "School, Everyday Use, Travel"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Gender",
+            "value": "Unisex"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Strap Type",
+            "value": "Padded shoulder straps (15-inch drop)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pockets/Compartments",
+            "value": "1 main compartment, 1 front utility pocket with built-in organizer"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Design",
+            "value": "Classic, Simple Silhouette"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Material Quality",
+            "value": "600 Denier Polyester (Recycled), Abrasion-resistant, Water-repellent"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Overall Score",
+            "value": "4.6"
+          }
+        ],
+        "image": [
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+        ],
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.shopkidsbagpack.com"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Unisex",
+              "item": "https://www.shopkidsbagpack.com/p/unisex.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "JanSport",
+              "item": "https://www.shopkidsbagpack.com/p/jansport.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Casual Daypacks",
+              "item": "https://www.shopkidsbagpack.com/p/casual-daypacks.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black",
+              "item": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html"
+            }
+          ]
+        }
+      },
+      "created_at": "2026-02-17T02:40:18.788Z",
+      "last_updated": "2026-02-17T02:40:18.788Z"
+    },
+    {
+      "product_name": "PUMA Kids' Meridian Backpack",
+      "brand": "PUMA",
+      "price": 9.22,
+      "category": "Luggage & Travel Gear",
+      "subcategory": "Kids' Backpacks",
+      "color_options": "Gray/Yellow Backpack, Black/Red, Black/Silver, Red/Camo Backpack, Heather Multi, Navy/Red",
+      "size": "One Size",
+      "dimensions": "Not specified in listing",
+      "primary_use": "School, Travel, Everyday Use",
+      "gender": "Kids (Unisex)",
+      "strap_type": "Comfortable padded straps",
+      "pockets_compartments": "Multiple pockets, sleeves, and organizers (unspecified)",
+      "design": "Simplistic, Classic Design",
+      "material_quality": "Polyester, Easy to spot clean",
+      "ratings": 4.6,
+      "reviews": 6112,
+      "overall_score": 4.6,
+      "amazon_url": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+      "img_url1": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+      "img_url2": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+      "img_url3": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+      "img_url4": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+      "product_id": "pumakids-mlpzwz8k-dy2at",
+      "slug": "puma-kids-meridian-backpack",
+      "url": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html",
+      "gender_url": "https://www.shopkidsbagpack.com/p/kids (unisex).html",
+      "brand_url": "https://www.shopkidsbagpack.com/p/puma.html",
+      "subcategory_url": "https://www.shopkidsbagpack.com/p/kids-backpacks.html",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+      ],
+      "main_image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+      "sizes": [
+        "One Size"
+      ],
+      "pockets": [
+        "Multiple pockets",
+        "sleeves",
+        "and organizers (unspecified)"
+      ],
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "@id": "https://www.shopkidsbagpack.com/#product-pumakids-mlpzwz8k-dy2at",
+        "name": "PUMA Kids' Meridian Backpack",
+        "description": "PUMA PUMA Kids' Meridian Backpack - School, Travel, Everyday Use",
+        "url": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html",
+        "sku": "pumakids-mlpzwz8k-dy2at",
+        "brand": {
+          "@type": "Brand",
+          "name": "PUMA",
+          "url": "https://www.shopkidsbagpack.com/p/puma.html"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html",
+          "priceCurrency": "USD",
+          "price": 9.22,
+          "priceValidUntil": "2027-02-17",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "Amazon"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.6,
+          "reviewCount": 6112,
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Category",
+            "value": "Luggage & Travel Gear"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Subcategory",
+            "value": "Kids' Backpacks"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Color Options",
+            "value": "Gray/Yellow Backpack, Black/Red, Black/Silver, Red/Camo Backpack, Heather Multi, Navy/Red"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Size",
+            "value": "One Size"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Dimensions",
+            "value": "Not specified in listing"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Primary Use",
+            "value": "School, Travel, Everyday Use"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Gender",
+            "value": "Kids (Unisex)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Strap Type",
+            "value": "Comfortable padded straps"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pockets/Compartments",
+            "value": "Multiple pockets, sleeves, and organizers (unspecified)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Design",
+            "value": "Simplistic, Classic Design"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Material Quality",
+            "value": "Polyester, Easy to spot clean"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Overall Score",
+            "value": "4.6"
+          }
+        ],
+        "image": [
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+        ],
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.shopkidsbagpack.com"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Kids (Unisex)",
+              "item": "https://www.shopkidsbagpack.com/p/kids (unisex).html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "PUMA",
+              "item": "https://www.shopkidsbagpack.com/p/puma.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Kids' Backpacks",
+              "item": "https://www.shopkidsbagpack.com/p/kids-backpacks.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "PUMA Kids' Meridian Backpack",
+              "item": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html"
+            }
+          ]
+        }
+      },
+      "created_at": "2026-02-17T02:40:18.788Z",
+      "last_updated": "2026-02-17T02:40:18.788Z"
+    },
+    {
+      "product_name": "Champion Manuscript Backpack, Black, OS",
+      "brand": "Champion",
+      "price": 17.3,
+      "category": "Luggage & Travel Gear",
+      "subcategory": "Casual Daypacks",
+      "color_options": "Black, Blue, Green, Heather Grey, Green Grid Camo, Scarlet Heather",
+      "size": "One Size",
+      "dimensions": "18 x 11.5 x 6.5 inches",
+      "primary_use": "School, Gym, Travel, Everyday Use",
+      "gender": "Unisex",
+      "strap_type": "Padded adjustable straps",
+      "pockets_compartments": "Front zip pocket with internal organizer, water bottle pocket, internal laptop sleeve",
+      "design": "Color blocked silhouette, sporty, modern",
+      "material_quality": "Durable Polyester, Spot clean only",
+      "ratings": 4.7,
+      "reviews": 14671,
+      "overall_score": 4.7,
+      "amazon_url": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+      "img_url1": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+      "img_url2": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+      "img_url3": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+      "product_id": "championm-mlpzwz8k-bxoy8",
+      "slug": "champion-manuscript-backpack-black-os",
+      "url": "https://www.shopkidsbagpack.com/2026/02/champion-manuscript-backpack-black-os.html",
+      "gender_url": "https://www.shopkidsbagpack.com/p/unisex.html",
+      "brand_url": "https://www.shopkidsbagpack.com/p/champion.html",
+      "subcategory_url": "https://www.shopkidsbagpack.com/p/casual-daypacks.html",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+      ],
+      "main_image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+      "sizes": [
+        "One Size"
+      ],
+      "pockets": [
+        "Front zip pocket with internal organizer",
+        "water bottle pocket",
+        "internal laptop sleeve"
+      ],
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "@id": "https://www.shopkidsbagpack.com/#product-championm-mlpzwz8k-bxoy8",
+        "name": "Champion Manuscript Backpack, Black, OS",
+        "description": "Champion Champion Manuscript Backpack, Black, OS - School, Gym, Travel, Everyday Use",
+        "url": "https://www.shopkidsbagpack.com/2026/02/champion-manuscript-backpack-black-os.html",
+        "sku": "championm-mlpzwz8k-bxoy8",
+        "brand": {
+          "@type": "Brand",
+          "name": "Champion",
+          "url": "https://www.shopkidsbagpack.com/p/champion.html"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.shopkidsbagpack.com/2026/02/champion-manuscript-backpack-black-os.html",
+          "priceCurrency": "USD",
+          "price": 17.3,
+          "priceValidUntil": "2027-02-17",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "Amazon"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.7,
+          "reviewCount": 14671,
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Category",
+            "value": "Luggage & Travel Gear"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Subcategory",
+            "value": "Casual Daypacks"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Color Options",
+            "value": "Black, Blue, Green, Heather Grey, Green Grid Camo, Scarlet Heather"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Size",
+            "value": "One Size"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Dimensions",
+            "value": "18 x 11.5 x 6.5 inches"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Primary Use",
+            "value": "School, Gym, Travel, Everyday Use"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Gender",
+            "value": "Unisex"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Strap Type",
+            "value": "Padded adjustable straps"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pockets/Compartments",
+            "value": "Front zip pocket with internal organizer, water bottle pocket, internal laptop sleeve"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Design",
+            "value": "Color blocked silhouette, sporty, modern"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Material Quality",
+            "value": "Durable Polyester, Spot clean only"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Overall Score",
+            "value": "4.7"
+          }
+        ],
+        "image": [
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+        ],
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.shopkidsbagpack.com"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Unisex",
+              "item": "https://www.shopkidsbagpack.com/p/unisex.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Champion",
+              "item": "https://www.shopkidsbagpack.com/p/champion.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Casual Daypacks",
+              "item": "https://www.shopkidsbagpack.com/p/casual-daypacks.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Champion Manuscript Backpack, Black, OS",
+              "item": "https://www.shopkidsbagpack.com/2026/02/champion-manuscript-backpack-black-os.html"
+            }
+          ]
+        }
+      },
+      "created_at": "2026-02-17T02:40:18.788Z",
+      "last_updated": "2026-02-17T02:40:18.788Z"
+    },
+    {
+      "product_name": "Cusangel Backpack for Girls Boys School Bookbags Kindergarten Elementary Lightweight Waterproof Multifunctional Large Capacity for Backpack (16 inch Fun Prints)",
+      "brand": "Cusangel",
+      "price": 20.99,
+      "category": "Luggage & Travel Gear",
+      "subcategory": "Kids' Backpacks",
+      "color_options": "6 Purple Mermaid, 1 Sky Unicorn, 1 Sky Unicorn 3pcs, 16in Red, 3set Black, 9 Sea Mermaid, Aqua Clear Backpack, Black Clear Backpack, 1 Luminous Dinosaur Set, 1 Purple Mermaid 3pcs, 10 Black Cat, 16in Black, 16in Blue, 2 Luminous Dinosaur, 3set Green, 5 Black Space, 8 Black Soccer, Black-b-16inch, Blue, Blue Clear Backpack, Green, Pink-16inch",
+      "size": "One Size (16 inch)",
+      "dimensions": "16 x 12 x 7 inches",
+      "primary_use": "School, Kindergarten, Elementary",
+      "gender": "Kids (Unisex)",
+      "strap_type": "Ergonomic S-shaped adjustable straps, padded back panel, non-slip chest buckle",
+      "pockets_compartments": "4 compartments, 2 elastic side pockets, reflective strips on shoulder straps and side bags",
+      "design": "Fun prints and colors, playful design",
+      "material_quality": "Water-resistant, wrinkle-proof, easy-to-clean material",
+      "ratings": 4.8,
+      "reviews": 2503,
+      "overall_score": 4.8,
+      "amazon_url": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+      "img_url1": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+      "img_url2": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+      "product_id": "cusangelb-mlpzwz8k-0m7lu",
+      "slug": "cusangel-backpack-for-girls-boys-school-bookbags-kindergarten-elementary-lightwe",
+      "url": "https://www.shopkidsbagpack.com/2026/02/cusangel-backpack-for-girls-boys-school-bookbags-kindergarten-elementary-lightwe.html",
+      "gender_url": "https://www.shopkidsbagpack.com/p/kids (unisex).html",
+      "brand_url": "https://www.shopkidsbagpack.com/p/cusangel.html",
+      "subcategory_url": "https://www.shopkidsbagpack.com/p/kids-backpacks.html",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+      ],
+      "main_image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+      "sizes": [
+        "One Size (16 inch)"
+      ],
+      "pockets": [
+        "4 compartments",
+        "2 elastic side pockets",
+        "reflective strips on shoulder straps and side bags"
+      ],
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "@id": "https://www.shopkidsbagpack.com/#product-cusangelb-mlpzwz8k-0m7lu",
+        "name": "Cusangel Backpack for Girls Boys School Bookbags Kindergarten Elementary Lightweight Waterproof Multifunctional Large Capacity for Backpack (16 inch Fun Prints)",
+        "description": "Cusangel Cusangel Backpack for Girls Boys School Bookbags Kindergarten Elementary Lightweight Waterproof Multifunctional Large Capacity for Backpack (16 inch Fun Prints) - School, Kindergarten, Elementary",
+        "url": "https://www.shopkidsbagpack.com/2026/02/cusangel-backpack-for-girls-boys-school-bookbags-kindergarten-elementary-lightwe.html",
+        "sku": "cusangelb-mlpzwz8k-0m7lu",
+        "brand": {
+          "@type": "Brand",
+          "name": "Cusangel",
+          "url": "https://www.shopkidsbagpack.com/p/cusangel.html"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.shopkidsbagpack.com/2026/02/cusangel-backpack-for-girls-boys-school-bookbags-kindergarten-elementary-lightwe.html",
+          "priceCurrency": "USD",
+          "price": 20.99,
+          "priceValidUntil": "2027-02-17",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "Amazon"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 2503,
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Category",
+            "value": "Luggage & Travel Gear"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Subcategory",
+            "value": "Kids' Backpacks"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Color Options",
+            "value": "6 Purple Mermaid, 1 Sky Unicorn, 1 Sky Unicorn 3pcs, 16in Red, 3set Black, 9 Sea Mermaid, Aqua Clear Backpack, Black Clear Backpack, 1 Luminous Dinosaur Set, 1 Purple Mermaid 3pcs, 10 Black Cat, 16in Black, 16in Blue, 2 Luminous Dinosaur, 3set Green, 5 Black Space, 8 Black Soccer, Black-b-16inch, Blue, Blue Clear Backpack, Green, Pink-16inch"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Size",
+            "value": "One Size (16 inch)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Dimensions",
+            "value": "16 x 12 x 7 inches"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Primary Use",
+            "value": "School, Kindergarten, Elementary"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Gender",
+            "value": "Kids (Unisex)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Strap Type",
+            "value": "Ergonomic S-shaped adjustable straps, padded back panel, non-slip chest buckle"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pockets/Compartments",
+            "value": "4 compartments, 2 elastic side pockets, reflective strips on shoulder straps and side bags"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Design",
+            "value": "Fun prints and colors, playful design"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Material Quality",
+            "value": "Water-resistant, wrinkle-proof, easy-to-clean material"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Overall Score",
+            "value": "4.8"
+          }
+        ],
+        "image": [
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+        ],
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.shopkidsbagpack.com"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Kids (Unisex)",
+              "item": "https://www.shopkidsbagpack.com/p/kids (unisex).html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Cusangel",
+              "item": "https://www.shopkidsbagpack.com/p/cusangel.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Kids' Backpacks",
+              "item": "https://www.shopkidsbagpack.com/p/kids-backpacks.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Cusangel Backpack for Girls Boys School Bookbags Kindergarten Elementary Lightweight Waterproof Multifunctional Large Capacity for Backpack (16 inch Fun Prints)",
+              "item": "https://www.shopkidsbagpack.com/2026/02/cusangel-backpack-for-girls-boys-school-bookbags-kindergarten-elementary-lightwe.html"
+            }
+          ]
+        }
+      },
+      "created_at": "2026-02-17T02:40:18.788Z",
+      "last_updated": "2026-02-17T02:40:18.788Z"
+    },
+    {
+      "product_name": "Simple Modern Medium Disney Toddler Backpack for School Girls and Boys | Kindergarten Elementary Kids Backpack | Fletcher Collection | Kids - 15\" tall | Princess Rainbows",
+      "brand": "Simple Modern",
+      "price": 33.99,
+      "category": "Luggage & Travel Gear",
+      "subcategory": "Kids' Backpacks",
+      "color_options": "Disney: Princess Rainbows, -Outer Space, -Pink Ballerina, -Sweetheart, -Under the Sea, -Wheels Up, Barbie: Checkmate, Blippi: Space, Bluey: Checkmate, Bluey: Sky, Cocomelon: Watermelons, Dc: Batman Pow!, Dc: Superman Stand for Hope, Disney: Ariel's Day Dream, Disney: Buzz and Woody Adventures, Disney: Cars Lightning Speed, Disney: Frozen Elsa's Snowflake, Disney: Mickey Mouse Fun, Disney: Minnie Mouse Fun, Disney: Moana Oceana, Disney: Pixar Mashup on Blue, Disney: Tropical Stitch, Harry Potter: Magical Mashup, Marvel: Avengers Heroes, Marvel: Go Spidey Go, Marvel: Spider Gwen, Marvel: Spidey Kid, Minions: Unite, My Little Pony: Garden of Rainbows, Paw Patrol: Outdoor Adventures, Peppa Pig: Bubbles, Sesame Street: Pals, Tmnt: Mutant Ooze, Transformers: Block Nation, Viacom: Paw Patrol Adventures, Disney: Encanto, Gabby's Dollhouse: Gabby's Friends, Marvel: Avengers Assemble, Minecraft: Creeper, Tmnt: Turtles Unite, Trolls: Poppy Mashup",
+      "size": "Kids Medium (ages 4+)",
+      "dimensions": "15.25 x 12.5 x 5.25 inches",
+      "primary_use": "School, Kindergarten, Elementary",
+      "gender": "Kids (Unisex)",
+      "strap_type": "Padded, adjustable shoulder straps with reinforced stitching and buckle",
+      "pockets_compartments": "Padded tablet sleeve, large zip-closure front pocket, zip-closure stash pocket, two expandable bottle sleeves",
+      "design": "Disney themed, playful, character designs",
+      "material_quality": "Easy-to-clean polyester, reinforced stitching",
+      "ratings": 4.8,
+      "reviews": 5757,
+      "overall_score": 4.8,
+      "amazon_url": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+      "img_url1": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+      "img_url2": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/138._TTD_.jpg",
+      "product_id": "simplemod-mlpzwz8k-3uh5a",
+      "slug": "simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar",
+      "url": "https://www.shopkidsbagpack.com/2026/02/simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar.html",
+      "gender_url": "https://www.shopkidsbagpack.com/p/kids (unisex).html",
+      "brand_url": "https://www.shopkidsbagpack.com/p/simple-modern.html",
+      "subcategory_url": "https://www.shopkidsbagpack.com/p/kids-backpacks.html",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/138._TTD_.jpg"
+      ],
+      "main_image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+      "sizes": [
+        "Kids Medium (ages 4+)"
+      ],
+      "pockets": [
+        "Padded tablet sleeve",
+        "large zip-closure front pocket",
+        "zip-closure stash pocket",
+        "two expandable bottle sleeves"
+      ],
+      "schema": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "@id": "https://www.shopkidsbagpack.com/#product-simplemod-mlpzwz8k-3uh5a",
+        "name": "Simple Modern Medium Disney Toddler Backpack for School Girls and Boys | Kindergarten Elementary Kids Backpack | Fletcher Collection | Kids - 15\" tall | Princess Rainbows",
+        "description": "Simple Modern Simple Modern Medium Disney Toddler Backpack for School Girls and Boys | Kindergarten Elementary Kids Backpack | Fletcher Collection | Kids - 15\" tall | Princess Rainbows - School, Kindergarten, Elementary",
+        "url": "https://www.shopkidsbagpack.com/2026/02/simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar.html",
+        "sku": "simplemod-mlpzwz8k-3uh5a",
+        "brand": {
+          "@type": "Brand",
+          "name": "Simple Modern",
+          "url": "https://www.shopkidsbagpack.com/p/simple-modern.html"
+        },
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.shopkidsbagpack.com/2026/02/simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar.html",
+          "priceCurrency": "USD",
+          "price": 33.99,
+          "priceValidUntil": "2027-02-17",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "Amazon"
+          }
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": 4.8,
+          "reviewCount": 5757,
+          "bestRating": "5",
+          "worstRating": "1"
+        },
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Category",
+            "value": "Luggage & Travel Gear"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Subcategory",
+            "value": "Kids' Backpacks"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Color Options",
+            "value": "Disney: Princess Rainbows, -Outer Space, -Pink Ballerina, -Sweetheart, -Under the Sea, -Wheels Up, Barbie: Checkmate, Blippi: Space, Bluey: Checkmate, Bluey: Sky, Cocomelon: Watermelons, Dc: Batman Pow!, Dc: Superman Stand for Hope, Disney: Ariel's Day Dream, Disney: Buzz and Woody Adventures, Disney: Cars Lightning Speed, Disney: Frozen Elsa's Snowflake, Disney: Mickey Mouse Fun, Disney: Minnie Mouse Fun, Disney: Moana Oceana, Disney: Pixar Mashup on Blue, Disney: Tropical Stitch, Harry Potter: Magical Mashup, Marvel: Avengers Heroes, Marvel: Go Spidey Go, Marvel: Spider Gwen, Marvel: Spidey Kid, Minions: Unite, My Little Pony: Garden of Rainbows, Paw Patrol: Outdoor Adventures, Peppa Pig: Bubbles, Sesame Street: Pals, Tmnt: Mutant Ooze, Transformers: Block Nation, Viacom: Paw Patrol Adventures, Disney: Encanto, Gabby's Dollhouse: Gabby's Friends, Marvel: Avengers Assemble, Minecraft: Creeper, Tmnt: Turtles Unite, Trolls: Poppy Mashup"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Size",
+            "value": "Kids Medium (ages 4+)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Dimensions",
+            "value": "15.25 x 12.5 x 5.25 inches"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Primary Use",
+            "value": "School, Kindergarten, Elementary"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Gender",
+            "value": "Kids (Unisex)"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Strap Type",
+            "value": "Padded, adjustable shoulder straps with reinforced stitching and buckle"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Pockets/Compartments",
+            "value": "Padded tablet sleeve, large zip-closure front pocket, zip-closure stash pocket, two expandable bottle sleeves"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Design",
+            "value": "Disney themed, playful, character designs"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Material Quality",
+            "value": "Easy-to-clean polyester, reinforced stitching"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Overall Score",
+            "value": "4.8"
+          }
+        ],
+        "image": [
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+          "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/138._TTD_.jpg"
+        ],
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.shopkidsbagpack.com"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Kids (Unisex)",
+              "item": "https://www.shopkidsbagpack.com/p/kids (unisex).html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Simple Modern",
+              "item": "https://www.shopkidsbagpack.com/p/simple-modern.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Kids' Backpacks",
+              "item": "https://www.shopkidsbagpack.com/p/kids-backpacks.html"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Simple Modern Medium Disney Toddler Backpack for School Girls and Boys | Kindergarten Elementary Kids Backpack | Fletcher Collection | Kids - 15\" tall | Princess Rainbows",
+              "item": "https://www.shopkidsbagpack.com/2026/02/simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar.html"
+            }
+          ]
+        }
+      },
+      "created_at": "2026-02-17T02:40:18.789Z",
+      "last_updated": "2026-02-17T02:40:18.789Z"
+    }
+  ]
+}
