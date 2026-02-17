@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "name": "PUMA",
+    "slug": "puma",
+    "url": "https://www.shopkidsbagpack.com/p/puma.html",
+    "generated_at": "2026-02-17T02:40:23.023Z",
+    "total_products": 1,
+    "site_url": "https://www.shopkidsbagpack.com"
+  },
+  "brand": {
+    "name": "PUMA",
+    "slug": "puma",
+    "url": "https://www.shopkidsbagpack.com/p/puma.html"
+  },
+  "products": [
+    {
+      "product_id": "pumakids-mlpzwz8k-dy2at",
+      "name": "PUMA Kids' Meridian Backpack",
+      "slug": "puma-kids-meridian-backpack",
+      "url": "https://www.shopkidsbagpack.com/2026/02/puma-kids-meridian-backpack.html",
+      "gender": "Kids (Unisex)",
+      "subcategory": "Kids' Backpacks",
+      "price": 9.22,
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+      "overall_score": 4.6,
+      "primary_use": "School, Travel, Everyday Use"
+    }
+  ]
+}
