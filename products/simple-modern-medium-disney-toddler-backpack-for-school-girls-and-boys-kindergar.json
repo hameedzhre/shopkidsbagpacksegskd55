@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "product_id": "simplemod-mlpzwz8k-3uh5a",
+    "slug": "simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar",
+    "generated_at": "2026-02-17T02:40:21.516Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shopkidsbagpack.com/2026/02/simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar.html",
+      "gender": "https://www.shopkidsbagpack.com/p/kids (unisex).html",
+      "brand": "https://www.shopkidsbagpack.com/p/simple-modern.html",
+      "subcategory": "https://www.shopkidsbagpack.com/p/kids-backpacks.html"
+    }
+  },
+  "product": {
+    "product_name": "Simple Modern Medium Disney Toddler Backpack for School Girls and Boys | Kindergarten Elementary Kids Backpack | Fletcher Collection | Kids - 15\" tall | Princess Rainbows",
+    "brand": "Simple Modern",
+    "price": 33.99,
+    "category": "Luggage & Travel Gear",
+    "subcategory": "Kids' Backpacks",
+    "color_options": "Disney: Princess Rainbows, -Outer Space, -Pink Ballerina, -Sweetheart, -Under the Sea, -Wheels Up, Barbie: Checkmate, Blippi: Space, Bluey: Checkmate, Bluey: Sky, Cocomelon: Watermelons, Dc: Batman Pow!, Dc: Superman Stand for Hope, Disney: Ariel's Day Dream, Disney: Buzz and Woody Adventures, Disney: Cars Lightning Speed, Disney: Frozen Elsa's Snowflake, Disney: Mickey Mouse Fun, Disney: Minnie Mouse Fun, Disney: Moana Oceana, Disney: Pixar Mashup on Blue, Disney: Tropical Stitch, Harry Potter: Magical Mashup, Marvel: Avengers Heroes, Marvel: Go Spidey Go, Marvel: Spider Gwen, Marvel: Spidey Kid, Minions: Unite, My Little Pony: Garden of Rainbows, Paw Patrol: Outdoor Adventures, Peppa Pig: Bubbles, Sesame Street: Pals, Tmnt: Mutant Ooze, Transformers: Block Nation, Viacom: Paw Patrol Adventures, Disney: Encanto, Gabby's Dollhouse: Gabby's Friends, Marvel: Avengers Assemble, Minecraft: Creeper, Tmnt: Turtles Unite, Trolls: Poppy Mashup",
+    "size": "Kids Medium (ages 4+)",
+    "dimensions": "15.25 x 12.5 x 5.25 inches",
+    "primary_use": "School, Kindergarten, Elementary",
+    "gender": "Kids (Unisex)",
+    "strap_type": "Padded, adjustable shoulder straps with reinforced stitching and buckle",
+    "pockets_compartments": "Padded tablet sleeve, large zip-closure front pocket, zip-closure stash pocket, two expandable bottle sleeves",
+    "design": "Disney themed, playful, character designs",
+    "material_quality": "Easy-to-clean polyester, reinforced stitching",
+    "ratings": 4.8,
+    "reviews": 5757,
+    "overall_score": 4.8,
+    "amazon_url": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+    "img_url1": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+    "img_url2": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/138._TTD_.jpg",
+    "product_id": "simplemod-mlpzwz8k-3uh5a",
+    "slug": "simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar",
+    "url": "https://www.shopkidsbagpack.com/2026/02/simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar.html",
+    "gender_url": "https://www.shopkidsbagpack.com/p/kids (unisex).html",
+    "brand_url": "https://www.shopkidsbagpack.com/p/simple-modern.html",
+    "subcategory_url": "https://www.shopkidsbagpack.com/p/kids-backpacks.html",
+    "image_urls": [
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/138._TTD_.jpg"
+    ],
+    "main_image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+    "sizes": [
+      "Kids Medium (ages 4+)"
+    ],
+    "pockets": [
+      "Padded tablet sleeve",
+      "large zip-closure front pocket",
+      "zip-closure stash pocket",
+      "two expandable bottle sleeves"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shopkidsbagpack.com/#product-simplemod-mlpzwz8k-3uh5a",
+      "name": "Simple Modern Medium Disney Toddler Backpack for School Girls and Boys | Kindergarten Elementary Kids Backpack | Fletcher Collection | Kids - 15\" tall | Princess Rainbows",
+      "description": "Simple Modern Simple Modern Medium Disney Toddler Backpack for School Girls and Boys | Kindergarten Elementary Kids Backpack | Fletcher Collection | Kids - 15\" tall | Princess Rainbows - School, Kindergarten, Elementary",
+      "url": "https://www.shopkidsbagpack.com/2026/02/simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar.html",
+      "sku": "simplemod-mlpzwz8k-3uh5a",
+      "brand": {
+        "@type": "Brand",
+        "name": "Simple Modern",
+        "url": "https://www.shopkidsbagpack.com/p/simple-modern.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shopkidsbagpack.com/2026/02/simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar.html",
+        "priceCurrency": "USD",
+        "price": 33.99,
+        "priceValidUntil": "2027-02-17",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.8,
+        "reviewCount": 5757,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Luggage & Travel Gear"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Kids' Backpacks"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color Options",
+          "value": "Disney: Princess Rainbows, -Outer Space, -Pink Ballerina, -Sweetheart, -Under the Sea, -Wheels Up, Barbie: Checkmate, Blippi: Space, Bluey: Checkmate, Bluey: Sky, Cocomelon: Watermelons, Dc: Batman Pow!, Dc: Superman Stand for Hope, Disney: Ariel's Day Dream, Disney: Buzz and Woody Adventures, Disney: Cars Lightning Speed, Disney: Frozen Elsa's Snowflake, Disney: Mickey Mouse Fun, Disney: Minnie Mouse Fun, Disney: Moana Oceana, Disney: Pixar Mashup on Blue, Disney: Tropical Stitch, Harry Potter: Magical Mashup, Marvel: Avengers Heroes, Marvel: Go Spidey Go, Marvel: Spider Gwen, Marvel: Spidey Kid, Minions: Unite, My Little Pony: Garden of Rainbows, Paw Patrol: Outdoor Adventures, Peppa Pig: Bubbles, Sesame Street: Pals, Tmnt: Mutant Ooze, Transformers: Block Nation, Viacom: Paw Patrol Adventures, Disney: Encanto, Gabby's Dollhouse: Gabby's Friends, Marvel: Avengers Assemble, Minecraft: Creeper, Tmnt: Turtles Unite, Trolls: Poppy Mashup"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "Kids Medium (ages 4+)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Dimensions",
+          "value": "15.25 x 12.5 x 5.25 inches"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Primary Use",
+          "value": "School, Kindergarten, Elementary"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Kids (Unisex)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Strap Type",
+          "value": "Padded, adjustable shoulder straps with reinforced stitching and buckle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pockets/Compartments",
+          "value": "Padded tablet sleeve, large zip-closure front pocket, zip-closure stash pocket, two expandable bottle sleeves"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Design",
+          "value": "Disney themed, playful, character designs"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material Quality",
+          "value": "Easy-to-clean polyester, reinforced stitching"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "4.8"
+        }
+      ],
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/138._TTD_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shopkidsbagpack.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Kids (Unisex)",
+            "item": "https://www.shopkidsbagpack.com/p/kids (unisex).html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Simple Modern",
+            "item": "https://www.shopkidsbagpack.com/p/simple-modern.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Kids' Backpacks",
+            "item": "https://www.shopkidsbagpack.com/p/kids-backpacks.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Simple Modern Medium Disney Toddler Backpack for School Girls and Boys | Kindergarten Elementary Kids Backpack | Fletcher Collection | Kids - 15\" tall | Princess Rainbows",
+            "item": "https://www.shopkidsbagpack.com/2026/02/simple-modern-medium-disney-toddler-backpack-for-school-girls-and-boys-kindergar.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-17T02:40:18.789Z",
+    "last_updated": "2026-02-17T02:40:18.789Z"
+  }
+}
