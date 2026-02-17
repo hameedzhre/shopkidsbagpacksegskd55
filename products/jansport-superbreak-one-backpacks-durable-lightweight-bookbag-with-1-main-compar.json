@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "product_id": "jansports-mlpzwz8i-9eeuz",
+    "slug": "jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar",
+    "generated_at": "2026-02-17T02:40:19.338Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html",
+      "gender": "https://www.shopkidsbagpack.com/p/unisex.html",
+      "brand": "https://www.shopkidsbagpack.com/p/jansport.html",
+      "subcategory": "https://www.shopkidsbagpack.com/p/casual-daypacks.html"
+    }
+  },
+  "product": {
+    "product_name": "JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black",
+    "brand": "JanSport",
+    "price": 34.84,
+    "category": "Luggage & Travel Gear",
+    "subcategory": "Casual Daypacks",
+    "color_options": "70s Space Dye Fresh Mint, Black, Cyberspace Galaxy, Deep Grey, Deep Juniper, Faded Floral Fresh Mint, Faded Sage, Flower Market, Fluttering Fields, Graphite Grey, Navy, Night Sky, Pastel Lilac, Red Tape, Russet Red, Threaded",
+    "size": "One Size",
+    "dimensions": "16.5 x 12.5 x 5.5 inches / 42 x 32 x 14 cm",
+    "primary_use": "School, Everyday Use, Travel",
+    "gender": "Unisex",
+    "strap_type": "Padded shoulder straps (15-inch drop)",
+    "pockets_compartments": "1 main compartment, 1 front utility pocket with built-in organizer",
+    "design": "Classic, Simple Silhouette",
+    "material_quality": "600 Denier Polyester (Recycled), Abrasion-resistant, Water-repellent",
+    "ratings": 4.6,
+    "reviews": 43197,
+    "overall_score": 4.6,
+    "amazon_url": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/138._TTD_.jpg",
+    "img_url1": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+    "img_url2": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+    "img_url3": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+    "img_url4": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+    "img_url5": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg",
+    "product_id": "jansports-mlpzwz8i-9eeuz",
+    "slug": "jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar",
+    "url": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html",
+    "gender_url": "https://www.shopkidsbagpack.com/p/unisex.html",
+    "brand_url": "https://www.shopkidsbagpack.com/p/jansport.html",
+    "subcategory_url": "https://www.shopkidsbagpack.com/p/casual-daypacks.html",
+    "image_urls": [
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+      "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+    ],
+    "main_image": "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+    "sizes": [
+      "One Size"
+    ],
+    "pockets": [
+      "1 main compartment",
+      "1 front utility pocket with built-in organizer"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.shopkidsbagpack.com/#product-jansports-mlpzwz8i-9eeuz",
+      "name": "JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black",
+      "description": "JanSport JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black - School, Everyday Use, Travel",
+      "url": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html",
+      "sku": "jansports-mlpzwz8i-9eeuz",
+      "brand": {
+        "@type": "Brand",
+        "name": "JanSport",
+        "url": "https://www.shopkidsbagpack.com/p/jansport.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html",
+        "priceCurrency": "USD",
+        "price": 34.84,
+        "priceValidUntil": "2027-02-17",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.6,
+        "reviewCount": 43197,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Luggage & Travel Gear"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Casual Daypacks"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Color Options",
+          "value": "70s Space Dye Fresh Mint, Black, Cyberspace Galaxy, Deep Grey, Deep Juniper, Faded Floral Fresh Mint, Faded Sage, Flower Market, Fluttering Fields, Graphite Grey, Navy, Night Sky, Pastel Lilac, Red Tape, Russet Red, Threaded"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "One Size"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Dimensions",
+          "value": "16.5 x 12.5 x 5.5 inches / 42 x 32 x 14 cm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Primary Use",
+          "value": "School, Everyday Use, Travel"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Strap Type",
+          "value": "Padded shoulder straps (15-inch drop)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pockets/Compartments",
+          "value": "1 main compartment, 1 front utility pocket with built-in organizer"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Design",
+          "value": "Classic, Simple Silhouette"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Material Quality",
+          "value": "600 Denier Polyester (Recycled), Abrasion-resistant, Water-repellent"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Overall Score",
+          "value": "4.6"
+        }
+      ],
+      "image": [
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/148._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/66._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/124._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/129._TTD_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/G/01/error/en_US/150._TTD_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.shopkidsbagpack.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Unisex",
+            "item": "https://www.shopkidsbagpack.com/p/unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "JanSport",
+            "item": "https://www.shopkidsbagpack.com/p/jansport.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Casual Daypacks",
+            "item": "https://www.shopkidsbagpack.com/p/casual-daypacks.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "JanSport SuperBreak One Backpacks - Durable, Lightweight Bookbag with 1 Main Compartment, Front Utility Pocket with Built-in Organizer - Premium Backpack, Black",
+            "item": "https://www.shopkidsbagpack.com/2026/02/jansport-superbreak-one-backpacks-durable-lightweight-bookbag-with-1-main-compar.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-17T02:40:18.788Z",
+    "last_updated": "2026-02-17T02:40:18.788Z"
+  }
+}
