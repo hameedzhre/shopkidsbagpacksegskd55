@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "product_id": "B0CMFVPP49",
+    "asin": "B0CMFVPP49",
+    "slug": "al-haramain-amber-oud-rouge-eau-de-parfum-spray-for-men-4-ounce",
+    "generated_at": "2026-02-20T14:03:44.952Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-rouge-eau-de-parfum-spray-for-men-4-ounce.html",
+      "gender": "https://www.haramainamberoud.com/p/men.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/fragrance.html",
+      "amazon": "https://www.amazon.com/Al-Haramain-Amber-Rouge-Parfum/dp/B0CMFVPP49/"
+    }
+  },
+  "product": {
+    "asin": "B0CMFVPP49",
+    "product_title": "Al Haramain Amber Oud Rouge Eau de Parfum Spray for Men, 4 Ounce",
+    "product_description": "Al Haramain Amber Oud Rouge Cologne by Al Haramain, Starting in 2018, Al Haramain has slowly been introducing a delicious collection of creamy oriental perfumes in the Amber Oud collection. In early 2020 Al Haramain Amber Oud Rouge was added to the already impressive array. The fragrance is complex and sweet, allowing it to blend in in a variety of settings. It opens with distinctive top notes of saffron and a touch of floral accents. The middle is a sweet and salty combo thanks to rich amber wood and a touch of ambergris. The base exudes the warm scent of agarwood along with a few specially-chosen woodsy scents including fir and cedar. This fragrance is easy to enjoy anytime, but is especially suited to adding spice and warmth to cool evenings.",
+    "category": "Beauty & Personal Care",
+    "subcategory": "Fragrance",
+    "price": 62.28,
+    "gender": "Men",
+    "size": "4 oz / 118 ml",
+    "ratings_score": 4.1,
+    "number_of_reviews": 578,
+    "fragrance_concentration": "Eau de Parfum",
+    "top_notes": "Saffron",
+    "middle_notes": "Jasmine",
+    "base_notes": "Ambergris, Musk, White Cedar Extract",
+    "occasion": "All time wear, Cool evenings",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United States",
+    "safety_information": "For external use only. Avoid contact with eyes. Keep away from naked flame or direct heat sources.",
+    "product_dimensions": "2.5 x 1.2 x 4.5 inches",
+    "item_weight": "4.0 ounces",
+    "amazon_url_link": "https://www.amazon.com/Al-Haramain-Amber-Rouge-Parfum/dp/B0CMFVPP49/",
+    "availability": "Only 16 left in stock - order soon",
+    "img_url1": "https://m.media-amazon.com/images/I/51GLsLHcHpL._SL1000_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/51FlDLwyAHL._SL1000_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/41IwQGdDFWL.jpg",
+    "product_id": "B0CMFVPP49",
+    "slug": "al-haramain-amber-oud-rouge-eau-de-parfum-spray-for-men-4-ounce",
+    "url": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-rouge-eau-de-parfum-spray-for-men-4-ounce.html",
+    "gender_url": "https://www.haramainamberoud.com/p/men.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/fragrance.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/51GLsLHcHpL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51FlDLwyAHL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/41IwQGdDFWL.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/51GLsLHcHpL._SL1000_.jpg",
+    "top_notes_array": [
+      "Saffron"
+    ],
+    "middle_notes_array": [
+      "Jasmine"
+    ],
+    "base_notes_array": [
+      "Ambergris",
+      "Musk",
+      "White Cedar Extract"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B0CMFVPP49",
+      "name": "Al Haramain Amber Oud Rouge Eau de Parfum Spray for Men, 4 Ounce",
+      "description": "Al Haramain Amber Oud Rouge Cologne by Al Haramain, Starting in 2018, Al Haramain has slowly been introducing a delicious collection of creamy oriental perfumes in the Amber Oud collection. In early 2020 Al Haramain Amber Oud Rouge was added to the already impressive array. The fragrance is complex and sweet, allowing it to blend in in a variety of settings. It opens with distinctive top notes of saffron and a touch of floral accents. The middle is a sweet and salty combo thanks to rich amber wood and a touch of ambergris. The base exudes the warm scent of agarwood along with a few specially-chosen woodsy scents including fir and cedar. This fragrance is easy to enjoy anytime, but is especially suited to adding spice and warmth to cool evenings.",
+      "url": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-rouge-eau-de-parfum-spray-for-men-4-ounce.html",
+      "sku": "B0CMFVPP49",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/Al-Haramain-Amber-Rouge-Parfum/dp/B0CMFVPP49/",
+        "priceCurrency": "USD",
+        "price": 62.28,
+        "priceValidUntil": "2027-02-20",
+        "availability": "https://schema.org/OutOfStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.1,
+        "reviewCount": 578,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B0CMFVPP49"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Beauty & Personal Care"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "4 oz / 118 ml"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Saffron"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Jasmine"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Ambergris, Musk, White Cedar Extract"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "All time wear, Cool evenings"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United States"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only. Avoid contact with eyes. Keep away from naked flame or direct heat sources."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "2.5 x 1.2 x 4.5 inches"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "4.0 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "Only 16 left in stock - order soon"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/51GLsLHcHpL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/51FlDLwyAHL._SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/41IwQGdDFWL.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men",
+            "item": "https://www.haramainamberoud.com/p/men.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Fragrance",
+            "item": "https://www.haramainamberoud.com/p/fragrance.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Al Haramain Amber Oud Rouge Eau de Parfum Spray for Men, 4 Ounce",
+            "item": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-rouge-eau-de-parfum-spray-for-men-4-ounce.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-20T14:03:39.903Z",
+    "last_updated": "2026-02-20T14:03:39.903Z"
+  }
+}
