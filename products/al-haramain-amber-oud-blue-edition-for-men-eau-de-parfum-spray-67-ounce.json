@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "product_id": "B09WLGSCTS",
+    "asin": "B09WLGSCTS",
+    "slug": "al-haramain-amber-oud-blue-edition-for-men-eau-de-parfum-spray-67-ounce",
+    "generated_at": "2026-02-20T14:03:41.122Z",
+    "source": "google_sheets",
+    "version": "1.0",
+    "urls": {
+      "product": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-blue-edition-for-men-eau-de-parfum-spray-67-ounce.html",
+      "gender": "https://www.haramainamberoud.com/p/men, unisex.html",
+      "brand": "https://www.haramainamberoud.com/p/al-haramain.html",
+      "subcategory": "https://www.haramainamberoud.com/p/fragrance.html",
+      "amazon": "https://www.amazon.com/Al-Haramain-Amber-Oud-Blue/dp/B09WLGSCTS/"
+    }
+  },
+  "product": {
+    "asin": "B09WLGSCTS",
+    "product_title": "Al Haramain Amber Oud Blue Edition for Men Eau de Parfum Spray, 6.7 Ounce",
+    "product_description": "Amber Oud Bleu Edition by Al Haramain Perfumes is a fragrance for women and men. This is a new fragrance. Amber Oud Bleu Edition was launched in 2022. Top notes are Lemon, Grapefruit, Pink Pepper and Mint; middle notes are Ginger, Jasmine and Vetiver; base notes are Patchouli, Olibanum, Sandalwood and Cedar.",
+    "category": "Beauty & Personal Care",
+    "subcategory": "Fragrance",
+    "price": 61.32,
+    "gender": "Men, Unisex",
+    "size": "6.7 oz / 198 ml",
+    "ratings_score": 4.3,
+    "number_of_reviews": 203,
+    "fragrance_concentration": "Eau de Parfum",
+    "top_notes": "Lemon, Grapefruit, Pink Pepper, Mint",
+    "middle_notes": "Ginger, Jasmine, Vetiver",
+    "base_notes": "Patchouli, Olibanum, Sandalwood, Cedar",
+    "occasion": "Any Occasion",
+    "manufacturer": "Al Haramain",
+    "country_of_origin": "United States",
+    "safety_information": "For external use only.",
+    "ingredients_list": "Alcohol, Bht, Parfum, Ethylhexyl Methoxycinnamate, Dipropylene Glycol, Propanediol, Water, Benzyl Alcohol, Benzyl Benzoate, Benzyl Salicylate, Citral, Citronellol, Coumarin, Eugenol, Geraniol, Linalool, Alpha-isomethyl Ionone, Limonene",
+    "product_dimensions": "3 x 3 x 5 inches",
+    "item_weight": "6.7 ounces",
+    "amazon_url_link": "https://www.amazon.com/Al-Haramain-Amber-Oud-Blue/dp/B09WLGSCTS/",
+    "availability": "In Stock",
+    "img_url1": "https://m.media-amazon.com/images/I/61gDokglAgL._SL1200_.jpg",
+    "img_url2": "https://m.media-amazon.com/images/I/519yk48c48L._SL1087_.jpg",
+    "img_url3": "https://m.media-amazon.com/images/I/614+nYndeEL._SL1200_.jpg",
+    "img_url4": "https://m.media-amazon.com/images/I/614+nYndeEL._SL1200_.jpg",
+    "product_id": "B09WLGSCTS",
+    "slug": "al-haramain-amber-oud-blue-edition-for-men-eau-de-parfum-spray-67-ounce",
+    "url": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-blue-edition-for-men-eau-de-parfum-spray-67-ounce.html",
+    "gender_url": "https://www.haramainamberoud.com/p/men, unisex.html",
+    "brand_url": "https://www.haramainamberoud.com/p/al-haramain.html",
+    "subcategory_url": "https://www.haramainamberoud.com/p/fragrance.html",
+    "image_urls": [
+      "https://m.media-amazon.com/images/I/61gDokglAgL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/519yk48c48L._SL1087_.jpg",
+      "https://m.media-amazon.com/images/I/614+nYndeEL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/614+nYndeEL._SL1200_.jpg"
+    ],
+    "main_image": "https://m.media-amazon.com/images/I/61gDokglAgL._SL1200_.jpg",
+    "top_notes_array": [
+      "Lemon",
+      "Grapefruit",
+      "Pink Pepper",
+      "Mint"
+    ],
+    "middle_notes_array": [
+      "Ginger",
+      "Jasmine",
+      "Vetiver"
+    ],
+    "base_notes_array": [
+      "Patchouli",
+      "Olibanum",
+      "Sandalwood",
+      "Cedar"
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "@id": "https://www.haramainamberoud.com/#product-B09WLGSCTS",
+      "name": "Al Haramain Amber Oud Blue Edition for Men Eau de Parfum Spray, 6.7 Ounce",
+      "description": "Amber Oud Bleu Edition by Al Haramain Perfumes is a fragrance for women and men. This is a new fragrance. Amber Oud Bleu Edition was launched in 2022. Top notes are Lemon, Grapefruit, Pink Pepper and Mint; middle notes are Ginger, Jasmine and Vetiver; base notes are Patchouli, Olibanum, Sandalwood and Cedar.",
+      "url": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-blue-edition-for-men-eau-de-parfum-spray-67-ounce.html",
+      "sku": "B09WLGSCTS",
+      "brand": {
+        "@type": "Brand",
+        "name": "Al Haramain",
+        "url": "https://www.haramainamberoud.com/p/al-haramain.html"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.amazon.com/Al-Haramain-Amber-Oud-Blue/dp/B09WLGSCTS/",
+        "priceCurrency": "USD",
+        "price": 61.32,
+        "priceValidUntil": "2027-02-20",
+        "availability": "https://schema.org/InStock",
+        "seller": {
+          "@type": "Organization",
+          "name": "Amazon"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.3,
+        "reviewCount": 203,
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "ASIN",
+          "value": "B09WLGSCTS"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Beauty & Personal Care"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Subcategory",
+          "value": "Fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Gender",
+          "value": "Men, Unisex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Size",
+          "value": "6.7 oz / 198 ml"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Fragrance Concentration",
+          "value": "Eau de Parfum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Top Notes",
+          "value": "Lemon, Grapefruit, Pink Pepper, Mint"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Middle Notes",
+          "value": "Ginger, Jasmine, Vetiver"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Base Notes",
+          "value": "Patchouli, Olibanum, Sandalwood, Cedar"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Occasion",
+          "value": "Any Occasion"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Country of Origin",
+          "value": "United States"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Safety Information",
+          "value": "For external use only."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ingredients",
+          "value": "Alcohol, Bht, Parfum, Ethylhexyl Methoxycinnamate, Dipropylene Glycol, Propanediol, Water, Benzyl Alcohol, Benzyl Benzoate, Benzyl Salicylate, Citral, Citronellol, Coumarin, Eugenol, Geraniol, Linalool, Alpha-isomethyl Ionone, Limonene"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Dimensions",
+          "value": "3 x 3 x 5 inches"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Item Weight",
+          "value": "6.7 ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Availability",
+          "value": "In Stock"
+        }
+      ],
+      "image": [
+        "https://m.media-amazon.com/images/I/61gDokglAgL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/519yk48c48L._SL1087_.jpg",
+        "https://m.media-amazon.com/images/I/614+nYndeEL._SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/614+nYndeEL._SL1200_.jpg"
+      ],
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.haramainamberoud.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Men, Unisex",
+            "item": "https://www.haramainamberoud.com/p/men, unisex.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Al Haramain",
+            "item": "https://www.haramainamberoud.com/p/al-haramain.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Fragrance",
+            "item": "https://www.haramainamberoud.com/p/fragrance.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 5,
+            "name": "Al Haramain Amber Oud Blue Edition for Men Eau de Parfum Spray, 6.7 Ounce",
+            "item": "https://www.haramainamberoud.com/2026/02/al-haramain-amber-oud-blue-edition-for-men-eau-de-parfum-spray-67-ounce.html"
+          }
+        ]
+      }
+    },
+    "created_at": "2026-02-20T14:03:39.903Z",
+    "last_updated": "2026-02-20T14:03:39.903Z"
+  }
+}
